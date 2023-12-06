@@ -21,7 +21,7 @@ const Aboutus = () => {
                                 <img class="h-60 rounded w-full object-cover object-center mb-6" src="https://avatars.githubusercontent.com/u/98303757?v=4" alt="content" />
                                 <h3 class="tracking-widest text-yellow-500 text-xs font-medium title-font">UI/UX and Front-End</h3>
                                 <h2 class="text-lg text-white font-medium title-font">Prajwal P P </h2>
-                                <p class="leading-relaxed text-base">A UI/UX designer and Front-end developer who has experience working at TATOS Tech, andwemet, RedPositive, Tinkerhub and GDSC Kerala. Currenly working in Fliptree and Mulearn.</p>
+                                <p class="leading-relaxed text-base">A UI/UX designer and Front-end developer who has experience working at TATOS Tech, andwemet, RedPositive, Tinkerhub and GDSC Kerala. Currenly working in Fliptree and Mulearn. Aspiring Full Stack Developer</p>
                             </div>
                         </div>
                         <div class="xl:w-1/4 md:w-1/2 p-4">

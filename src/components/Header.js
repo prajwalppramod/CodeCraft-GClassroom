@@ -9,7 +9,7 @@ const Header = () => {
                         <img src='https://i.postimg.cc/hPBLMhJY/logo.png' className='w-7'></img>
                         <span class="ml-3 text-xl">Classroom GPT</span>
                     </a>
-                    <nav class="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
+                    <nav class="md:ml-auto md:mr-auto flex flex-wrap items-center text-xl justify-center">
                         <a class="mr-5 hover:text-gray-900">Home</a>
                         <a class="mr-5 hover:text-gray-900">Product</a>
                         <a class="mr-5 hover:text-gray-900">About Us</a>

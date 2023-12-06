@@ -2,10 +2,10 @@
 https://classroom-gpt.vercel.app/
 
 # Contributors
--[Prajwal P P](https://github.com/prajwalppramod)
--[Samuel John](https://github.com/SamJohn04)
--[Johann George](https://github.com/Johann-George)
--[Melvin JS](https://github.com/Melvin-js)
+- [Prajwal P P](https://github.com/prajwalppramod)
+- [Samuel John](https://github.com/SamJohn04)
+- [Johann George](https://github.com/Johann-George)
+- [Melvin JS](https://github.com/Melvin-js)
 
 # Project Idea
 
